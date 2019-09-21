@@ -1,6 +1,6 @@
 class Person
  
- def initialize(name: "Chris", weight: "240")
+ def initialize(name:, weight:)
    
    
  end 
