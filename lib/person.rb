@@ -1,3 +1,8 @@
 class Person
-  #your code here
+ 
+ def initialize(name: "Chris", weight: "240")
+   
+   
+ end 
+ 
 end
